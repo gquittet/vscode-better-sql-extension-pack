@@ -1,0 +1,28 @@
+{
+    "name": "vscode-better-sql-extension-pack",
+    "displayName": "Better SQL Extension Pack",
+    "description": "An extension pack to improve the SQL development with VSCode.",
+    "version": "0.0.1",
+    "publisher": "gquittet",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-sql-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-sql-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-mssql",
+        "mtxr.sqltools-driver-mysql",
+        "mtxr.sqltools-driver-pg",
+        "mtxr.sqltools-driver-sqlite"
+    ]
+}
