@@ -2,7 +2,7 @@
     "name": "vscode-better-sql-extension-pack",
     "displayName": "Better SQL Extension Pack",
     "description": "An extension pack to improve the SQL development with VSCode.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "gquittet",
     "repository": {
         "type": "git",
